@@ -4,8 +4,8 @@ Suitepad test project
 #Journey
 First time I did the way project demands, it is interesting. like connecting to AWS and creating instance.
 Although I am able to create instance but not able to create user as the SDK of Net:SSH have issues.
-But If you see my coding style and code,the way i believ is 
-I strongly believe this "Any fool can write code that a computer can understand. Good programmers write code that humans can understand" -Martin Fowler. You will get to know the way i write.
+But If you see my coding style and code, you will get to know the way I write.
+I strongly believe this "Any fool can write code that a computer can understand. Good programmers write code that humans can understand" -Martin Fowler. .
 I used: AWS SDK, Net:SSH SDK for this project.
 
 
