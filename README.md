@@ -2,8 +2,12 @@
 Suitepad test project
 
 #Journey
-Although never touched Net:SSH for ruby , for the first time I have learnt something , the way i believ is 
-I strongly believe this "Any fool can write code that a computer can understand. Good programmers write code that humans can understand" -Martin Fowler
+First time I did the way project demands, it is interesting. like connecting to AWS and creating instance.
+Although I am able to create instance but not able to create user as the SDK of Net:SSH have issues.
+But If you see my coding style and code,the way i believ is 
+I strongly believe this "Any fool can write code that a computer can understand. Good programmers write code that humans can understand" -Martin Fowler. You will get to know the way i write.
+I used: AWS SDK, Net:SSH SDK for this project.
+
 
 
 #Getting Started
