@@ -1,26 +1,30 @@
+# Suitepad
+Suitepad test project
 
-# README
+#Journey
+Although never touched Net:SSH for ruby , for the first time I have learnt something , the way i believ is 
+I strongly believe this "Any fool can write code that a computer can understand. Good programmers write code that humans can understand" -Martin Fowler
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+#Getting Started
 
-* Ruby version
+Fork and clone the repository. Install dependencies with:
 
-* System dependencies
+``bundle install``
 
-* Configuration
 
-* Database creation
+#Run Server
+After completing all above steps run your rails server
 
-* Database initialization
+``rails s``
 
-* How to run the test suite
+##REST routes for create AWS Instance
+POST->http://localhost:3000/amazonec2/get_ec2instance
+###Params
+username
+password
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##Love :heart: to hear feedback from you
+RT Bathula-weirdo,coffee lover
+battu.network@gmail.com
 
