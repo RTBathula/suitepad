@@ -5,8 +5,8 @@ module Amazonec2Helper
 
 	def create_get_instance	
 
-		AWS.config(:access_key_id  => 'AKIAIH3JXQGC56NJGLUQ',
-           :secret_access_key => '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')
+		AWS.config(:access_key_id  => '',
+           :secret_access_key => '')
 
 		ec2                 = AWS::EC2.new.regions['us-west-2']            # choose region here
 		ami_name            = 'amzn-ami-hvm-2016.09.0.20161028-x86_64-gp2' # which AMI to search for and use
